@@ -1,0 +1,15 @@
+.App {
+  max-width: 900px;
+  margin: auto;
+  font-family: Arial, sans-serif;
+}
+
+table th {
+  cursor: pointer;
+  background: #f4f4f4;
+}
+
+button {
+  margin: 0 5px;
+  padding: 5px 10px;
+}
